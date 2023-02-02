@@ -1,0 +1,13 @@
+   "lenderId":13,
+   "borrowerId":11,
+   "lenderName":"icici",
+   "borrowerName":"ramu",
+   "agreementDate":"2022-07-14",
+   "loanAmount":500000,
+   "paidAmount":240000,
+   "balanceAmount":240000,
+   "emiAmount":4000,
+   "emis":12,
+   "paidEmis":6,
+   "balanceEmis":6,
+   "processingFee":20000
